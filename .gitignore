@@ -1,5 +1,5 @@
 .vs
-.sln
+*.sln
 Binaries
 DerivedDataCache
 Intermediate
