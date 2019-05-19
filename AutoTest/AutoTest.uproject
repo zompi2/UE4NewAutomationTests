@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{ED0EEAF3-49C6-309C-10E8-BEA7FAE81BC2}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "AutoTest",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	]
+}
