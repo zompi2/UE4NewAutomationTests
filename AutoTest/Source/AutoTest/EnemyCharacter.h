@@ -1,4 +1,4 @@
-// Fill out your copyright notice in the Description page of Project Settings.
+// (c) 2019 Damian Nowakowski
 
 #pragma once
 

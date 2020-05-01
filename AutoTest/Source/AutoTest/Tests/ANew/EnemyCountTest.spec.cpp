@@ -1,4 +1,4 @@
-// Copyright 1998-2019 Epic Games, Inc. All Rights Reserved.
+// (c) 2019 Damian Nowakowski
 
 #include "../MyTestUtils.h"
 #include "AutoTestCharacter.h"

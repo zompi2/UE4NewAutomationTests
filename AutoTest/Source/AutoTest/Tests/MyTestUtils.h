@@ -1,3 +1,5 @@
+// (c) 2019 Damian Nowakowski
+
 #pragma once
 
 #include "Engine.h"

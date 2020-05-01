@@ -1,3 +1,7 @@
-UE4NewAutomationTests
+UE4 New Automation Test API Example
+====
 
-This will be a part of tutorial for a new UE4 Automation Tests system.
+This project demonstrates how to write Automation Tests in Unreal Engine 4 using old and new test API.
+
+## More
+More about tests and project here: https://damnow.blogspot.com/2019/06/unreal-engine-4-automation-tests-new-api.html
